@@ -1,3 +1,4 @@
+```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header" />
 </p>
@@ -39,6 +40,7 @@
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20e%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -56,3 +58,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" />
 </p>
+```
