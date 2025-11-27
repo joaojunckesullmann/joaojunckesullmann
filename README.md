@@ -31,10 +31,6 @@
 ---
 
 <div align="center">
-  <h2 style="color:#FFD700;">Contato</h2>
-
-  <a href="mailto:joaojunckesullmann@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
 </div>
