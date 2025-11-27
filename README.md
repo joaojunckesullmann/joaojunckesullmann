@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-🚀 Evoluindo em programação, lógica, banco de dados e desenvolvimento de projetos com foco e dedicação.
+✨ Dominando programação, lógica, banco de dados e desenvolvimento de projetos com criatividade e evolução contínua.
 </div>
 
 ---
