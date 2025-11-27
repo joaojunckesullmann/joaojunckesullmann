@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-✨ Dominando programação, lógica, banco de dados e desenvolvimento de projetos com criatividade e evolução contínua.
+⚡ Dominando programação, lógica, banco de dados e desenvolvimento de projetos com criatividade e evolução contínua
 </div>
 
 ---
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20e%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Fortnite-8257E5?style=for-the-badge&logo=epicgames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neymar-FFD700?style=for-the-badge&logo=soccer&logoColor=black" />
 
 </div>
 
