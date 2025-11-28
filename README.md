@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=ribbon&color=FFD700&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header" />
 </p>
 
 <div align="center">
-⚡ Dominando programação, lógica, banco de dados e desenvolvimento de projetos com criatividade e evolução contínua
+⚡ Dominando programação, lógica, banco de dados e projetos com criatividade e evolução contínua
 </div>
 
 ---
@@ -55,5 +55,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=ribbon&color=FFD700&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" />
 </p>
