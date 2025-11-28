@@ -3,6 +3,7 @@
 </p>
 
 <div align="center">
+  <h2 font-size: 20px;">
 ⚡ Dominando programação, lógica, banco de dados e projetos com criatividade e evolução contínua
 </div>
 
@@ -18,7 +19,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojunckesullmann&layout=compact&hide_border=false&include_all_commits=false&count_private=false&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFFFFF&bg_color=0d1117"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 <div align="center">
   <h2 style="color:#FFD700;">Contato</h2>
 
-  <a href="mailto:joaojunckesullmann@gmail.com">
+  <a href="mailto:joao_ullmann@estudante.sesisenai.org.br">
     <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
