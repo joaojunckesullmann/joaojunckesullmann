@@ -9,6 +9,22 @@
 ---
 
 <div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaojunckesullmann&bg_color=0d1117&color=FFFFFF&line=FFD700&point=FFD700&area=true&hide_border=true)](https://github.com/joaojunckesullmann)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=joaojunckesullmann&hide_border=false&include_all_commits=false&count_private=false&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=0D1117"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojunckesullmann&layout=compact&hide_border=false&include_all_commits=false&count_private=false&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFFFFF&bg_color=0d1117"/>
+
+</div>
+
+---
+
+<div align="center">
   <h2 style="color:#FFD700;">Habilidades Técnicas em Progresso</h2>
 </div>
 
@@ -24,13 +40,16 @@
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20e%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Fortnite-8257E5?style=for-the-badge&logo=epicgames&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neymar-FFD700?style=for-the-badge&logo=soccer&logoColor=black" />
 
 </div>
 
 ---
 
 <div align="center">
+  <h2 style="color:#FFD700;">Contato</h2>
+
+  <a href="mailto:joaojunckesullmann@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
 </div>
