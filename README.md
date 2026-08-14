@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaojunckesullmann&hide_border=false&include_all_commits=false&count_private=false&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joaojunckesullmann&hide_border=false&include_all_commits=false&count_private=false&title_color=FFD700&text_color=FFFFFF&icon_color=0000ff&bg_color=0D1117"/>
 
 <br>
 
@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <h2 style="color:#FFD700;">Habilidades Técnicas em Progresso</h2>
+  <h2 style="color:#0000ff;">Habilidades Técnicas em Progresso</h2>
 </div>
 
 <div align="center">
@@ -46,14 +46,14 @@
 ---
 
 <div align="center">
-  <h2 style="color:#FFD700;">Contato</h2>
+  <h2 style="color:#0000ff;">Contato</h2>
 
   <a href="mailto:joao_ullmann@estudante.sesisenai.org.br">
-    <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-0000ff?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer" />
 </p>
