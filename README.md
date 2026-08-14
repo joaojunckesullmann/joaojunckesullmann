@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header" />
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaojunckesullmann&bg_color=0d1117&color=FFFFFF&line=FFD700&point=FFD700&area=true&hide_border=true)](https://github.com/joaojunckesullmann)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaojunckesullmann&bg_color=0000ff&color=FFFFFF&line=FFD700&point=FFD700&area=true&hide_border=true)](https://github.com/joaojunckesullmann)
 
 <br>
 
