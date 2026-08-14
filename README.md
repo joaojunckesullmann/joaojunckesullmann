@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/Netflix-%23E50914.svg?style=for-the-badge&logo=netflix&logoColor=white" />
   <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" />
   <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Binance-%23FCD535.svg?style=for-the-badge&logo=binance&logoColor=black" />
   
 
 </div>
