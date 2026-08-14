@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaojunckesullmann&bg_color=808080&color=FFFFFF&line=FFD700&point=FFD700&area=true&hide_border=true)](https://github.com/joaojunckesullmann)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaojunckesullmann&bg_color=808080&color=FFFFFF&line=0000ff&point=0000ff&area=true&hide_border=true)](https://github.com/joaojunckesullmann)
 
 <br>
 
