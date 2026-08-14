@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaojunckesullmann&hide_border=false&include_all_commits=false&count_private=false&title_color=FFD700&text_color=FFFFFF&icon_color=0000ff&bg_color=0000ff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joaojunckesullmann&hide_border=false&include_all_commits=false&count_private=false&title_color=0000ff&text_color=FFFFFF&icon_color=0000ff&bg_color=0000ff"/>
 
 <br>
 
