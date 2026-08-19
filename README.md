@@ -11,7 +11,7 @@
 
   <br />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9sd3lsMnE0eDN0NnAxcXZjcHV1cG50ZWV1YnI2OHUzcXRhN3A1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QvBoVMlTLD4vAJ16v1/giphy.gif" width="100px" alt="Capivara andando" />
+  <img src="https://private-user-images.githubusercontent.com" />
 
 </div>
 
