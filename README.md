@@ -11,10 +11,10 @@
 
   <br />
 
-  <img src="https://private-user-images.githubusercontent.com" />
+  <!-- Capivara andando -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Capybara.png" width="80px" alt="Capivara" />
 
 </div>
-
 ---
 
 <div align="center">
