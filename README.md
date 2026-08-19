@@ -3,13 +3,15 @@
 </p>
 
 ---
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaojunckesullmann&bg_color=ffffff00&color=FFFFFF&line=0000ff&point=0000ff&area=true&hide_border=true)](https://github.com/joaojunckesullmann)
+  <a href="https://github.com/joaojunckesullmann">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaojunckesullmann&bg_color=ffffff00&color=FFFFFF&line=0000ff&point=0000ff&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 
+  <br />
 
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9sd3lsMnE0eDN0NnAxcXZjcHV1cG50ZWV1YnI2OHUzcXRhN3A1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QvBoVMlTLD4vAJ16v1/giphy.gif" width="100px" alt="Capivara andando" />
 
 </div>
 
