@@ -8,11 +8,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaojunckesullmann&bg_color=ffffff00&color=FFFFFF&line=0000ff&point=0000ff&area=true&hide_border=true)](https://github.com/joaojunckesullmann)
 
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaojunckesullmann&hide_border=false&include_all_commits=false&count_private=false&title_color=0000ff&text_color=FFFFFF&icon_color=0000ff&bg_color=0000ff"/>
-
-<br>
 
 
 </div>
