@@ -12,10 +12,6 @@
 </div>
 
 <div align="center">
-  <h2 style="color:#0000ff;">Habilidades Técnicas em Progresso</h2>
-</div>
-
-<div align="center">
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
