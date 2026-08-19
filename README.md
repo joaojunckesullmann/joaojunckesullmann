@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header" />
 </p>
 
----
 <div align="center">
 
   <a href="https://github.com/joaojunckesullmann">
@@ -11,7 +10,6 @@
 
   <br />
 </div>
----
 
 <div align="center">
   <h2 style="color:#0000ff;">Habilidades Técnicas em Progresso</h2>
