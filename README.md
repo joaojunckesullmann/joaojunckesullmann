@@ -54,7 +54,7 @@
 <div align="center">
   <h2 style="color:#0000ff;">Contato</h2>
 
-  <a href="mailto:joao_ullmann@estudante.sesisenai.org.br">
+  <a href="emailto:joao_ullmann@estudante.sesisenai.org.br">
     <img src="https://img.shields.io/badge/Email-0000ff?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
