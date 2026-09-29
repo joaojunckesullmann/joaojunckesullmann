@@ -4,51 +4,73 @@
 
 <div align="center">
 
-  <a href="https://github.com/joaojunckesullmann">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaojunckesullmann&bg_color=ffffff00&color=FFFFFF&line=0000ff&point=0000ff&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
+<h2>👨‍💻 Developing Skills</h2>
 
-  <br />
-</div>
+<p>
+  Atualmente estou aprendendo e evoluindo na área de tecnologia,
+  buscando transformar cada novo conhecimento em algo que eu possa colocar em prática.
+</p>
 
----
+<br>
 
-<div align="center">
+<h2>🔥 GitHub Streak</h2>
 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-F29111?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-384d54?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <a href = "https://chatgpt.com/c/6a7f97e1-4170-83e9-b7d5-00796ea339d3" > <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" /> </a>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <a href="http://github.com/joaojunckesullmann"><img src="https://img.shields.io/badge/Git%20e%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netflix-%23E50914.svg?style=for-the-badge&logo=netflix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)" />
-  <img src="https://img.shields.io/badge/Binance-%23FCD535.svg?style=for-the-badge&logo=binance&logoColor=black" />
-
+<img src="https://streak-stats.demolab.com/?user=joaojunckesullmann&theme=transparent&hide_border=true&ring=008CFF&fire=008CFF&currStreakLabel=008CFF&sideLabels=008CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
+  alt="GitHub Streak" />
 
 </div>
 
 ---
 
 <div align="center">
-  <h2 style="color:#0000ff;">Contato</h2>
 
-  <a href="emailto:joao_ullmann@estudante.sesisenai.org.br">
-    <img src="https://img.shields.io/badge/Email-0000ff?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<h2>💻 Technologies & Tools</h2>
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL%20Workbench-F29111?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Docker%20Compose-384d54?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git%20e%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
 
 </div>
+
+---
+
+<div align="center">
+
+<h2>📫 Contact</h2>
+
+<a href="mailto:joao_ullmann@estudante.sesisenai.org.br">
+  <img src="https://img.shields.io/badge/Email-0000FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/joaojunckesullmann">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer" />
