@@ -14,7 +14,6 @@
 <br>
 
 <h2>🔥 GitHub Streak</h2>
-
 <img src="https://streak-stats.demolab.com/?user=joaojunckesullmann&theme=transparent&hide_border=true&ring=008CFF&fire=008CFF&currStreakLabel=008CFF&sideLabels=008CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
   alt="GitHub Streak" />
 
